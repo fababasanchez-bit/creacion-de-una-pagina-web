@@ -67,7 +67,7 @@ AQUI PERSONALIZO PORTADA
 **************************************/
 .portada{
     height: 100vh;
-    background-image: url("imagenes/portada.jpeg");
+    background-image: url("Imagenes/portada.jpeg");
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat ;
